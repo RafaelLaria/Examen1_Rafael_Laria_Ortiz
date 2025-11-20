@@ -1,0 +1,6 @@
+Plaintext
+12.5
+14.2
+ERROR_LECTURA
+11.0
+15.3
